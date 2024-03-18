@@ -1,0 +1,136 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "ecc9",
+      "cityName": "Wajir",
+      "country": "Kenya",
+      "emoji": "🇰🇪",
+      "date": "2024-02-19T12:37:41.461Z",
+      "notes": "Hopefully we go home",
+      "position": {
+        "lat": "1.0765967983064109",
+        "lng": "39.90234375000001"
+      }
+    },
+    {
+      "id": "ee33",
+      "cityName": "Sarzay",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-02-20T19:50:48.591Z",
+      "notes": "test",
+      "position": {
+        "lat": "46.58906908309185",
+        "lng": "1.8896484375000002"
+      }
+    },
+    {
+      "id": "6fd9",
+      "cityName": "Les Valls de Valira",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-17T13:12:30.983Z",
+      "notes": "",
+      "position": {
+        "lat": "42.45588764197166",
+        "lng": "1.3842773437500002"
+      }
+    },
+    {
+      "id": "16a2",
+      "cityName": "Balearic Islands",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-17T13:13:53.181Z",
+      "notes": "",
+      "position": {
+        "lat": "38.73694606567603",
+        "lng": "1.1206054687500002"
+      }
+    },
+    {
+      "id": "1bcf",
+      "cityName": "El Perello",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-17T13:17:20.163Z",
+      "notes": "",
+      "position": {
+        "lat": "40.896905775860006",
+        "lng": "0.6811523437500001"
+      }
+    },
+    {
+      "id": "b23e",
+      "cityName": "Albalate del Arzobispo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-17T13:20:54.015Z",
+      "notes": "",
+      "position": {
+        "lat": "41.178653972331674",
+        "lng": "-0.6152343750000001"
+      }
+    },
+    {
+      "id": "dfe9",
+      "cityName": "Oberiberg",
+      "country": "Switzerland",
+      "emoji": "🇨🇭",
+      "date": "2024-03-18T08:10:56.622Z",
+      "notes": "Places I would like to visit",
+      "position": {
+        "lat": "47.0344495864474",
+        "lng": "8.764772415161135"
+      }
+    },
+    {
+      "id": "19b9",
+      "cityName": "Putten",
+      "country": "Netherlands (Kingdom of the)",
+      "emoji": "🇳🇱",
+      "date": "2024-03-18T08:18:51.614Z",
+      "notes": "",
+      "position": {
+        "lat": "52.22417171140684",
+        "lng": "5.5962467193603525"
+      }
+    }
+  ]
+}
